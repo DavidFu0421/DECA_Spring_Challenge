@@ -1,1 +1,2 @@
-# DECA_Spring_Challenge
+# Lab 2 Challenge
+
